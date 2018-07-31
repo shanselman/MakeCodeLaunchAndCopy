@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27924.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeCodeLaunchAndCopy", "MakeCodeLaunchAndCopy.csproj", "{203E0002-83C9-4376-B747-780864E1F4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{203E0002-83C9-4376-B747-780864E1F4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203E0002-83C9-4376-B747-780864E1F4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203E0002-83C9-4376-B747-780864E1F4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203E0002-83C9-4376-B747-780864E1F4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0F5EF23-3EFA-48BC-B177-5B5D758852F5}
+	EndGlobalSection
+EndGlobal
